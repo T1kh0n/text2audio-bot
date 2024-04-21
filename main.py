@@ -8,7 +8,7 @@ import os
 
 
 # personal token
-TOKEN = '7048327417:AAF75w3dOtqyWe9_E2zanpSykADCbsdk_HQ'
+TOKEN = 'TOKEN'
 
 
 # bot class initialization
