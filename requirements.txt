@@ -1,0 +1,3 @@
+python-telegram-bot[ext]==20.3
+pyttsx3
+langid
